@@ -17,4 +17,6 @@ plt.show()
 
 py_dev_y = [45372, 48876, 53850, 57287, 63016, 65998, 70003, 70000, 71496, 75370, 83640]
 
-plt.plot(py)
+plt.plot(py_dev_y, dev_x)
+
+plt.show()
